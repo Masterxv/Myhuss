@@ -297,10 +297,6 @@ http://mypanel.tv:8080/live/n11mp4i6sd/huss11223344/34414.m3u8
 http://mypanel.tv:8080/live/n11mp4i6sd/huss11223344/37944.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 4" tvg-logo="" group-title="BN SPORTS",beIN Sports Max 4
 http://mypanel.tv:8080/live/n11mp4i6sd/huss11223344/37943.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports World Cup 1" tvg-logo="" group-title="BN SPORTS",beIN Sports World Cup 1
-http://mypanel.tv:8080/live/n11mp4i6sd/huss11223344/34413.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports World Cup 2" tvg-logo="" group-title="BN SPORTS",beIN Sports World Cup 2
-http://mypanel.tv:8080/live/n11mp4i6sd/huss11223344/34414.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 AR" tvg-logo="" group-title="BN SPORTS",beIN Sports 1 AR
 http://mypanel.tv:8080/live/n11mp4i6sd/huss11223344/8971.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD ARB" tvg-logo="" group-title="BN SPORTS",beIN Sports 1 HD ARB
